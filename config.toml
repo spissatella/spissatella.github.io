@@ -1,4 +1,4 @@
-baseurl = "https://spissatella.github.io/"
+baseurl = "https://bivalveblog.netlify.com/"
 languageCode = "en-us"
 title = "BivalveBlog"
 theme = "hugo-lithium"
