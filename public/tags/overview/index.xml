@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>overview on BivalveBlog</title>
+    <link>/tags/overview/</link>
+    <description>Recent content in overview on BivalveBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Bivalves</title>
+      <link>/2019/06/29/getting-started-with-bivalves/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/29/getting-started-with-bivalves/</guid>
+      <description>If you’ve ever been beach-combing, anywhere in the world, chances are you’ve picked up bivalve shells. Bivalves are a group of animals that includes familiar things like scallops, oysters, mussels, clams and cockles.
+(If you already know what a bivalve is and how Linnaean taxonomy works, you can safely skip this post!)
+The defining character of the group is that they have two shells - other kinds of mollusc have one, or eight, or none - hence bi (two) valve (shell).</description>
+    </item>
+    
+  </channel>
+</rss>
